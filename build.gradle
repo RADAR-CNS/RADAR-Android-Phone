@@ -22,7 +22,7 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.2.1'
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.8.4'
-        classpath 'org.jfrog.buildinfo:build-info-extractor-gradle:4.8.1'
+        classpath 'org.jfrog.buildinfo:build-info-extractor-gradle:4.9.3'
         classpath 'digital.wup:android-maven-publish:3.6.1'
     }
 }
